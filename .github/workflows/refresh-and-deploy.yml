@@ -1,0 +1,74 @@
+# Refreshes the World Bank + ECB data, checks it, commits it, and publishes the site
+# to GitHub Pages — weekly, on every push to main, and on demand (Actions tab → Run workflow).
+#
+# One-time setup: repository Settings → Pages → Build and deployment → Source: "GitHub Actions".
+name: Refresh data and deploy
+
+on:
+  schedule:
+    - cron: "17 6 * * 1" # Mondays 06:17 UTC
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write # commit refreshed data
+  pages: write # deploy to Pages
+  id-token: write # required by actions/deploy-pages
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Fails (and stops the run) if an API is down or a currency mapping looks wrong.
+      - name: Download latest data
+        run: node scripts/build-data.mjs
+
+      # Fails if any figure is outside tolerance; nothing below runs, so the live site keeps its last good data.
+      - name: Check every figure against the World Bank
+        run: node scripts/verify.mjs
+
+      # Only scheduled/manual runs commit, so your own pushes don't get a bot commit on top.
+      # Push runs still deploy the freshly downloaded data.
+      - name: Commit refreshed data
+        if: github.event_name != 'push'
+        run: |
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Data unchanged."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Refresh World Bank and ECB data"
+            git push
+          fi
+
+      # Publish only what the browser loads.
+      - name: Assemble site
+        run: |
+          mkdir _site
+          cp -R index.html src data _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

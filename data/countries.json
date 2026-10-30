@@ -1,0 +1,4703 @@
+{
+ "generated": "2026-10-30T14:48:26.489Z",
+ "sources": {
+  "PA.NUS.PRVT.PP": {
+   "name": "PPP conversion factor, households and NPISHs Final consumption expenditure (LCU per international $)",
+   "lastUpdated": "2026-10-08",
+   "url": "https://data.worldbank.org/indicator/PA.NUS.PRVT.PP"
+  },
+  "PA.NUS.PPP": {
+   "name": "PPP conversion factor, GDP (LCU per international $)",
+   "lastUpdated": "2026-10-08",
+   "url": "https://data.worldbank.org/indicator/PA.NUS.PPP"
+  },
+  "PA.NUS.FCRF": {
+   "name": "Official exchange rate (LCU per US$, period average)",
+   "lastUpdated": "2026-10-08",
+   "url": "https://data.worldbank.org/indicator/PA.NUS.FCRF"
+  }
+ },
+ "countries": [
+  {
+   "iso3": "ABW",
+   "iso2": "AW",
+   "name": "Aruba",
+   "wbName": "Aruba",
+   "region": "Latin America & Caribbean",
+   "currency": "AWG",
+   "ppp": {
+    "value": 1.3358003334369,
+    "year": "2024",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1.79,
+    "year": "2024"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1.79,
+    "note": "Pegged at 1.79 per USD"
+   }
+  },
+  {
+   "iso3": "AFG",
+   "iso2": "AF",
+   "name": "Afghanistan",
+   "wbName": "Afghanistan",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "AFN",
+   "ppp": {
+    "value": 13.9880484201057,
+    "year": "2024",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 76.8135364354897,
+    "year": "2020"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "AGO",
+   "iso2": "AO",
+   "name": "Angola",
+   "wbName": "Angola",
+   "region": "Sub-Saharan Africa",
+   "currency": "AOA",
+   "ppp": {
+    "value": 364.102689305425,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 911.99303781631,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "ALB",
+   "iso2": "AL",
+   "name": "Albania",
+   "wbName": "Albania",
+   "region": "Europe & Central Asia",
+   "currency": "ALL",
+   "ppp": {
+    "value": 47.1177467318046,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 86.8033333333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "AND",
+   "iso2": "AD",
+   "name": "Andorra",
+   "wbName": "Andorra",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.603848577368125,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 0.887144250370587,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "ARE",
+   "iso2": "AE",
+   "name": "United Arab Emirates",
+   "wbName": "United Arab Emirates",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "AED",
+   "ppp": {
+    "value": 2.52698744753984,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 3.6725,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 3.6725,
+    "note": "Pegged at 3.6725 per USD"
+   }
+  },
+  {
+   "iso3": "ARG",
+   "iso2": "AR",
+   "name": "Argentina",
+   "wbName": "Argentina",
+   "region": "Latin America & Caribbean",
+   "currency": "ARS",
+   "ppp": {
+    "value": 567.297421343424,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1240.85125,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "ARM",
+   "iso2": "AM",
+   "name": "Armenia",
+   "wbName": "Armenia",
+   "region": "Europe & Central Asia",
+   "currency": "AMD",
+   "ppp": {
+    "value": 158.529692605185,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 387.010152166483,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "ASM",
+   "iso2": "AS",
+   "name": "American Samoa",
+   "wbName": "American Samoa",
+   "region": "East Asia & Pacific",
+   "currency": "USD",
+   "ppp": {
+    "value": 0.903446389799177,
+    "year": "2021",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2021"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "ATG",
+   "iso2": "AG",
+   "name": "Antigua and Barbuda",
+   "wbName": "Antigua and Barbuda",
+   "region": "Latin America & Caribbean",
+   "currency": "XCD",
+   "ppp": {
+    "value": 2.19148067125984,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2.7,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 2.7,
+    "note": "Pegged at 2.70 per USD"
+   }
+  },
+  {
+   "iso3": "AUS",
+   "iso2": "AU",
+   "name": "Australia",
+   "wbName": "Australia",
+   "region": "East Asia & Pacific",
+   "currency": "AUD",
+   "ppp": {
+    "value": 1.464593,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1.5519978866485,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "AUD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "AUT",
+   "iso2": "AT",
+   "name": "Austria",
+   "wbName": "Austria",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.750352,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "AZE",
+   "iso2": "AZ",
+   "name": "Azerbaijan",
+   "wbName": "Azerbaijan",
+   "region": "Europe & Central Asia",
+   "currency": "AZN",
+   "ppp": {
+    "value": 0.54294611878008,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1.7,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "BDI",
+   "iso2": "BI",
+   "name": "Burundi",
+   "wbName": "Burundi",
+   "region": "Sub-Saharan Africa",
+   "currency": "BIF",
+   "ppp": {
+    "value": 1344.64114331702,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2943.1375,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "BEL",
+   "iso2": "BE",
+   "name": "Belgium",
+   "wbName": "Belgium",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.771758,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "BEN",
+   "iso2": "BJ",
+   "name": "Benin",
+   "wbName": "Benin",
+   "region": "Sub-Saharan Africa",
+   "currency": "XOF",
+   "ppp": {
+    "value": 196.180920904833,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "BFA",
+   "iso2": "BF",
+   "name": "Burkina Faso",
+   "wbName": "Burkina Faso",
+   "region": "Sub-Saharan Africa",
+   "currency": "XOF",
+   "ppp": {
+    "value": 193.107323578259,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "BGD",
+   "iso2": "BD",
+   "name": "Bangladesh",
+   "wbName": "Bangladesh",
+   "region": "South Asia",
+   "currency": "BDT",
+   "ppp": {
+    "value": 34.9406280714449,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 121.920836605034,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "BGR",
+   "iso2": "BG",
+   "name": "Bulgaria",
+   "wbName": "Bulgaria",
+   "region": "Europe & Central Asia",
+   "currency": "BGN",
+   "ppp": {
+    "value": 0.414616944167498,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1.73519166666666,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1.95583,
+    "note": "Lev figures converted at the fixed euro rate 1.95583"
+   }
+  },
+  {
+   "iso3": "BHR",
+   "iso2": "BH",
+   "name": "Bahrain",
+   "wbName": "Bahrain",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "BHD",
+   "ppp": {
+    "value": 0.183461312143218,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.376,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 0.376,
+    "note": "Pegged at 0.376 per USD"
+   }
+  },
+  {
+   "iso3": "BHS",
+   "iso2": "BS",
+   "name": "Bahamas",
+   "wbName": "Bahamas, The",
+   "region": "Latin America & Caribbean",
+   "currency": "BSD",
+   "ppp": {
+    "value": 1.08962882849925,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": "Pegged 1:1 to USD"
+   }
+  },
+  {
+   "iso3": "BIH",
+   "iso2": "BA",
+   "name": "Bosnia and Herzegovina",
+   "wbName": "Bosnia and Herzegovina",
+   "region": "Europe & Central Asia",
+   "currency": "BAM",
+   "ppp": {
+    "value": 0.769029781854437,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1.73592901689708,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1.95583,
+    "note": "Pegged at 1.95583 per EUR"
+   }
+  },
+  {
+   "iso3": "BLR",
+   "iso2": "BY",
+   "name": "Belarus",
+   "wbName": "Belarus",
+   "region": "Europe & Central Asia",
+   "currency": "BYN",
+   "ppp": {
+    "value": 0.848605879235487,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 3.069175,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "BLZ",
+   "iso2": "BZ",
+   "name": "Belize",
+   "wbName": "Belize",
+   "region": "Latin America & Caribbean",
+   "currency": "BZD",
+   "ppp": {
+    "value": 1.08762083040378,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 2,
+    "note": "Pegged at 2 per USD"
+   }
+  },
+  {
+   "iso3": "BMU",
+   "iso2": "BM",
+   "name": "Bermuda",
+   "wbName": "Bermuda",
+   "region": "North America",
+   "currency": "BMD",
+   "ppp": {
+    "value": 1.19812062185577,
+    "year": "2024",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2024"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": "Pegged 1:1 to USD"
+   }
+  },
+  {
+   "iso3": "BOL",
+   "iso2": "BO",
+   "name": "Bolivia",
+   "wbName": "Bolivia",
+   "region": "Latin America & Caribbean",
+   "currency": "BOB",
+   "ppp": {
+    "value": 2.69923478338386,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 6.91,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "BRA",
+   "iso2": "BR",
+   "name": "Brazil",
+   "wbName": "Brazil",
+   "region": "Latin America & Caribbean",
+   "currency": "BRL",
+   "ppp": {
+    "value": 2.58149013637328,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 5.58728623856661,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "BRL",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "BRB",
+   "iso2": "BB",
+   "name": "Barbados",
+   "wbName": "Barbados",
+   "region": "Latin America & Caribbean",
+   "currency": "BBD",
+   "ppp": {
+    "value": 2.19085217304192,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 2,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 2,
+    "note": "Pegged at 2 per USD"
+   }
+  },
+  {
+   "iso3": "BRN",
+   "iso2": "BN",
+   "name": "Brunei",
+   "wbName": "Brunei Darussalam",
+   "region": "East Asia & Pacific",
+   "currency": "BND",
+   "ppp": {
+    "value": 0.52703824446847,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1.307595108858,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "SGD",
+    "factor": 1,
+    "note": "At par with the Singapore dollar"
+   }
+  },
+  {
+   "iso3": "BTN",
+   "iso2": "BT",
+   "name": "Bhutan",
+   "wbName": "Bhutan",
+   "region": "South Asia",
+   "currency": "BTN",
+   "ppp": {
+    "value": 21.052320263116,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 87.1584483507393,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "INR",
+    "factor": 1,
+    "note": "At par with the Indian rupee"
+   }
+  },
+  {
+   "iso3": "BWA",
+   "iso2": "BW",
+   "name": "Botswana",
+   "wbName": "Botswana",
+   "region": "Sub-Saharan Africa",
+   "currency": "BWP",
+   "ppp": {
+    "value": 5.31072994497821,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 13.5023833333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "CAF",
+   "iso2": "CF",
+   "name": "Central African Republic",
+   "wbName": "Central African Republic",
+   "region": "Sub-Saharan Africa",
+   "currency": "XAF",
+   "ppp": {
+    "value": 259.01465535587,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "CAN",
+   "iso2": "CA",
+   "name": "Canada",
+   "wbName": "Canada",
+   "region": "North America",
+   "currency": "CAD",
+   "ppp": {
+    "value": 1.260483,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1.39810565893901,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "CAD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "CHE",
+   "iso2": "CH",
+   "name": "Switzerland",
+   "wbName": "Switzerland",
+   "region": "Europe & Central Asia",
+   "currency": "CHF",
+   "ppp": {
+    "value": 1.065544,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.831355833333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "CHF",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "CHI",
+   "iso2": "JG",
+   "name": "Channel Islands",
+   "wbName": "Channel Islands",
+   "region": "Europe & Central Asia",
+   "currency": "GBP",
+   "ppp": null,
+   "wbFx": {
+    "value": 0.759473957338607,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "GBP",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "CHL",
+   "iso2": "CL",
+   "name": "Chile",
+   "wbName": "Chile",
+   "region": "Latin America & Caribbean",
+   "currency": "CLP",
+   "ppp": {
+    "value": 486.878432,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 951.329454191033,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "CHN",
+   "iso2": "CN",
+   "name": "China",
+   "wbName": "China",
+   "region": "East Asia & Pacific",
+   "currency": "CNY",
+   "ppp": {
+    "value": 3.45955804342707,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 7.18984737402171,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "CNY",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "CIV",
+   "iso2": "CI",
+   "name": "Côte d'Ivoire",
+   "wbName": "Cote d'Ivoire",
+   "region": "Sub-Saharan Africa",
+   "currency": "XOF",
+   "ppp": {
+    "value": 228.256988332928,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "CMR",
+   "iso2": "CM",
+   "name": "Cameroon",
+   "wbName": "Cameroon",
+   "region": "Sub-Saharan Africa",
+   "currency": "XAF",
+   "ppp": {
+    "value": 209.008402147982,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "COD",
+   "iso2": "CD",
+   "name": "DR Congo",
+   "wbName": "Congo, Dem. Rep.",
+   "region": "Sub-Saharan Africa",
+   "currency": "CDF",
+   "ppp": {
+    "value": 1124.85430376458,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 2693.24060103248,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "COG",
+   "iso2": "CG",
+   "name": "Congo",
+   "wbName": "Congo, Rep.",
+   "region": "Sub-Saharan Africa",
+   "currency": "XAF",
+   "ppp": {
+    "value": 231.265389642547,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "COL",
+   "iso2": "CO",
+   "name": "Colombia",
+   "wbName": "Colombia",
+   "region": "Latin America & Caribbean",
+   "currency": "COP",
+   "ppp": {
+    "value": 1665.592955,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 4053.13583333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "COM",
+   "iso2": "KM",
+   "name": "Comoros",
+   "wbName": "Comoros",
+   "region": "Sub-Saharan Africa",
+   "currency": "KMF",
+   "ppp": {
+    "value": 253.731980130596,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 435.376187289972,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 491.96775,
+    "note": "Fixed at 491.97 per EUR"
+   }
+  },
+  {
+   "iso3": "CPV",
+   "iso2": "CV",
+   "name": "Cabo Verde",
+   "wbName": "Cabo Verde",
+   "region": "Sub-Saharan Africa",
+   "currency": "CVE",
+   "ppp": {
+    "value": 52.9795427569347,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 97.8631517010164,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 110.265,
+    "note": "Pegged at 110.265 per EUR"
+   }
+  },
+  {
+   "iso3": "CRI",
+   "iso2": "CR",
+   "name": "Costa Rica",
+   "wbName": "Costa Rica",
+   "region": "Latin America & Caribbean",
+   "currency": "CRC",
+   "ppp": {
+    "value": 314.538731,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 503.496832373272,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "CUB",
+   "iso2": "CU",
+   "name": "Cuba",
+   "wbName": "Cuba",
+   "region": "Latin America & Caribbean",
+   "currency": "CUP",
+   "ppp": {
+    "value": 0.321938711455632,
+    "year": "2011",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": null,
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "CUW",
+   "iso2": "CW",
+   "name": "Curacao",
+   "wbName": "Curacao",
+   "region": "Latin America & Caribbean",
+   "currency": "ANG",
+   "ppp": {
+    "value": 1.24831756717631,
+    "year": "2024",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1.79,
+    "year": "2024"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1.79,
+    "note": "Pegged at 1.79 per USD"
+   }
+  },
+  {
+   "iso3": "CYM",
+   "iso2": "KY",
+   "name": "Cayman Islands",
+   "wbName": "Cayman Islands",
+   "region": "Latin America & Caribbean",
+   "currency": "KYD",
+   "ppp": {
+    "value": 0.94261799236714,
+    "year": "2024",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 0.83333,
+    "year": "2024"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 0.8333,
+    "note": "Pegged at 1.20 USD"
+   }
+  },
+  {
+   "iso3": "CYP",
+   "iso2": "CY",
+   "name": "Cyprus",
+   "wbName": "Cyprus",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.592250926360917,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "CZE",
+   "iso2": "CZ",
+   "name": "Czechia",
+   "wbName": "Czechia",
+   "region": "Europe & Central Asia",
+   "currency": "CZK",
+   "ppp": {
+    "value": 14.65771,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 21.882,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "CZK",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "DEU",
+   "iso2": "DE",
+   "name": "Germany",
+   "wbName": "Germany",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.718883,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "DJI",
+   "iso2": "DJ",
+   "name": "Djibouti",
+   "wbName": "Djibouti",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "DJF",
+   "ppp": {
+    "value": 88.5485984189414,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 177.721,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 177.721,
+    "note": "Pegged at 177.721 per USD"
+   }
+  },
+  {
+   "iso3": "DMA",
+   "iso2": "DM",
+   "name": "Dominica",
+   "wbName": "Dominica",
+   "region": "Latin America & Caribbean",
+   "currency": "XCD",
+   "ppp": {
+    "value": 1.55795723176331,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2.7,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 2.7,
+    "note": "Pegged at 2.70 per USD"
+   }
+  },
+  {
+   "iso3": "DNK",
+   "iso2": "DK",
+   "name": "Denmark",
+   "wbName": "Denmark",
+   "region": "Europe & Central Asia",
+   "currency": "DKK",
+   "ppp": {
+    "value": 6.921663,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 6.62182508333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "DKK",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "DOM",
+   "iso2": "DO",
+   "name": "Dominican Republic",
+   "wbName": "Dominican Republic",
+   "region": "Latin America & Caribbean",
+   "currency": "DOP",
+   "ppp": {
+    "value": 23.8084706913572,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 61.9865666666666,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "DZA",
+   "iso2": "DZ",
+   "name": "Algeria",
+   "wbName": "Algeria",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "DZD",
+   "ppp": {
+    "value": 41.7362435844431,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 131.605925,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "ECU",
+   "iso2": "EC",
+   "name": "Ecuador",
+   "wbName": "Ecuador",
+   "region": "Latin America & Caribbean",
+   "currency": "USD",
+   "ppp": {
+    "value": 0.441506220037219,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "EGY",
+   "iso2": "EG",
+   "name": "Egypt",
+   "wbName": "Egypt, Arab Rep.",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "EGP",
+   "ppp": {
+    "value": 7.72184322430442,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 49.2277558333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "ERI",
+   "iso2": "ER",
+   "name": "Eritrea",
+   "wbName": "Eritrea",
+   "region": "Sub-Saharan Africa",
+   "currency": "ERN",
+   "ppp": {
+    "value": 5.19667768478394,
+    "year": "2021",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 15.075,
+    "year": "2021"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "ESP",
+   "iso2": "ES",
+   "name": "Spain",
+   "wbName": "Spain",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.607856,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "EST",
+   "iso2": "EE",
+   "name": "Estonia",
+   "wbName": "Estonia",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.671741,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "ETH",
+   "iso2": "ET",
+   "name": "Ethiopia",
+   "wbName": "Ethiopia",
+   "region": "Sub-Saharan Africa",
+   "currency": "ETB",
+   "ppp": {
+    "value": 27.0057314452968,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 82.6013363504764,
+    "year": "2024"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "FIN",
+   "iso2": "FI",
+   "name": "Finland",
+   "wbName": "Finland",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.80201,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "FJI",
+   "iso2": "FJ",
+   "name": "Fiji",
+   "wbName": "Fiji",
+   "region": "East Asia & Pacific",
+   "currency": "FJD",
+   "ppp": {
+    "value": 0.889449806452223,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2.29903333333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "FRA",
+   "iso2": "FR",
+   "name": "France",
+   "wbName": "France",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.732501,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "FRO",
+   "iso2": "FO",
+   "name": "Faroe Islands",
+   "wbName": "Faroe Islands",
+   "region": "Europe & Central Asia",
+   "currency": "DKK",
+   "ppp": {
+    "value": 6.22980312304618,
+    "year": "2024",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 6.89448141666666,
+    "year": "2024"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "DKK",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "FSM",
+   "iso2": "FM",
+   "name": "Micronesia",
+   "wbName": "Micronesia, Fed. Sts.",
+   "region": "East Asia & Pacific",
+   "currency": "USD",
+   "ppp": {
+    "value": 0.95865080658499,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "GAB",
+   "iso2": "GA",
+   "name": "Gabon",
+   "wbName": "Gabon",
+   "region": "Sub-Saharan Africa",
+   "currency": "XAF",
+   "ppp": {
+    "value": 280.849994724835,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "GBR",
+   "iso2": "GB",
+   "name": "United Kingdom",
+   "wbName": "United Kingdom",
+   "region": "Europe & Central Asia",
+   "currency": "GBP",
+   "ppp": {
+    "value": 0.701529,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.759473957338607,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "GBP",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "GEO",
+   "iso2": "GE",
+   "name": "Georgia",
+   "wbName": "Georgia",
+   "region": "Europe & Central Asia",
+   "currency": "GEL",
+   "ppp": {
+    "value": 1.08749274580271,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2.74264166666666,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "GHA",
+   "iso2": "GH",
+   "name": "Ghana",
+   "wbName": "Ghana",
+   "region": "Sub-Saharan Africa",
+   "currency": "GHS",
+   "ppp": {
+    "value": 5.24995407961752,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 12.556825,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "GIB",
+   "iso2": "GI",
+   "name": "Gibraltar",
+   "wbName": "Gibraltar",
+   "region": "Europe & Central Asia",
+   "currency": "GIP",
+   "ppp": null,
+   "wbFx": {
+    "value": 0.759473957338607,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "GIN",
+   "iso2": "GN",
+   "name": "Guinea",
+   "wbName": "Guinea",
+   "region": "Sub-Saharan Africa",
+   "currency": "GNF",
+   "ppp": {
+    "value": 3614.22517193223,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 9565.08218343833,
+    "year": "2020"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "GMB",
+   "iso2": "GM",
+   "name": "The Gambia",
+   "wbName": "Gambia, The",
+   "region": "Sub-Saharan Africa",
+   "currency": "GMD",
+   "ppp": {
+    "value": 17.7935316169312,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 71.2893818242692,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "GNB",
+   "iso2": "GW",
+   "name": "Guinea-Bissau",
+   "wbName": "Guinea-Bissau",
+   "region": "Sub-Saharan Africa",
+   "currency": "XOF",
+   "ppp": {
+    "value": 224.853869936627,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "GNQ",
+   "iso2": "GQ",
+   "name": "Equatorial Guinea",
+   "wbName": "Equatorial Guinea",
+   "region": "Sub-Saharan Africa",
+   "currency": "XAF",
+   "ppp": {
+    "value": 238.615174467719,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "GRC",
+   "iso2": "GR",
+   "name": "Greece",
+   "wbName": "Greece",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.580055,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "GRD",
+   "iso2": "GD",
+   "name": "Grenada",
+   "wbName": "Grenada",
+   "region": "Latin America & Caribbean",
+   "currency": "XCD",
+   "ppp": {
+    "value": 1.66796585492046,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2.7,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 2.7,
+    "note": "Pegged at 2.70 per USD"
+   }
+  },
+  {
+   "iso3": "GRL",
+   "iso2": "GL",
+   "name": "Greenland",
+   "wbName": "Greenland",
+   "region": "Europe & Central Asia",
+   "currency": "DKK",
+   "ppp": {
+    "value": 5.10788380262313,
+    "year": "2023",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 6.88970258583334,
+    "year": "2023"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "DKK",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "GTM",
+   "iso2": "GT",
+   "name": "Guatemala",
+   "wbName": "Guatemala",
+   "region": "Latin America & Caribbean",
+   "currency": "GTQ",
+   "ppp": {
+    "value": 3.43217668006573,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 7.68012458333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "GUM",
+   "iso2": "GU",
+   "name": "Guam",
+   "wbName": "Guam",
+   "region": "East Asia & Pacific",
+   "currency": "USD",
+   "ppp": {
+    "value": 1.11213398346611,
+    "year": "2021",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2021"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "GUY",
+   "iso2": "GY",
+   "name": "Guyana",
+   "wbName": "Guyana",
+   "region": "Latin America & Caribbean",
+   "currency": "GYD",
+   "ppp": {
+    "value": 97.8050035061513,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 208.5,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "HKG",
+   "iso2": "HK",
+   "name": "Hong Kong",
+   "wbName": "Hong Kong SAR, China",
+   "region": "East Asia & Pacific",
+   "currency": "HKD",
+   "ppp": {
+    "value": 5.76759042860511,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 7.79708333333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "HKD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "HND",
+   "iso2": "HN",
+   "name": "Honduras",
+   "wbName": "Honduras",
+   "region": "Latin America & Caribbean",
+   "currency": "HNL",
+   "ppp": {
+    "value": 12.6170007962754,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 25.9526748179551,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "HRV",
+   "iso2": "HR",
+   "name": "Croatia",
+   "wbName": "Croatia",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.520776807666999,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "HTI",
+   "iso2": "HT",
+   "name": "Haiti",
+   "wbName": "Haiti",
+   "region": "Latin America & Caribbean",
+   "currency": "HTG",
+   "ppp": {
+    "value": 133.532589656196,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 130.626409210526,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "HUN",
+   "iso2": "HU",
+   "name": "Hungary",
+   "wbName": "Hungary",
+   "region": "Europe & Central Asia",
+   "currency": "HUF",
+   "ppp": {
+    "value": 204.540733,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 353.14,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "HUF",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "IDN",
+   "iso2": "ID",
+   "name": "Indonesia",
+   "wbName": "Indonesia",
+   "region": "East Asia & Pacific",
+   "currency": "IDR",
+   "ppp": {
+    "value": 5065.96899445827,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 16477.8651797835,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "IDR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "IMN",
+   "iso2": "IM",
+   "name": "Isle of Man",
+   "wbName": "Isle of Man",
+   "region": "Europe & Central Asia",
+   "currency": "GBP",
+   "ppp": null,
+   "wbFx": {
+    "value": 0.759473957338607,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "GBP",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "IND",
+   "iso2": "IN",
+   "name": "India",
+   "wbName": "India",
+   "region": "South Asia",
+   "currency": "INR",
+   "ppp": {
+    "value": 19.8389160640447,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 87.1584483507393,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "INR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "IRL",
+   "iso2": "IE",
+   "name": "Ireland",
+   "wbName": "Ireland",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.903963,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "IRN",
+   "iso2": "IR",
+   "name": "Iran",
+   "wbName": "Iran, Islamic Rep.",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "IRR",
+   "ppp": {
+    "value": 157796.04848244,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 42000,
+    "year": "2023"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "IRQ",
+   "iso2": "IQ",
+   "name": "Iraq",
+   "wbName": "Iraq",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "IQD",
+   "ppp": {
+    "value": 545.986386588537,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1300,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "ISL",
+   "iso2": "IS",
+   "name": "Iceland",
+   "wbName": "Iceland",
+   "region": "Europe & Central Asia",
+   "currency": "ISK",
+   "ppp": {
+    "value": 166.598924,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 128.44148705495,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "ISK",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "ISR",
+   "iso2": "IL",
+   "name": "Israel",
+   "wbName": "Israel",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "ILS",
+   "ppp": {
+    "value": 3.655759,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 3.45189166666666,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "ILS",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "ITA",
+   "iso2": "IT",
+   "name": "Italy",
+   "wbName": "Italy",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.644824,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "JAM",
+   "iso2": "JM",
+   "name": "Jamaica",
+   "wbName": "Jamaica",
+   "region": "Latin America & Caribbean",
+   "currency": "JMD",
+   "ppp": {
+    "value": 98.2417402226459,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 159.096428305752,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "JOR",
+   "iso2": "JO",
+   "name": "Jordan",
+   "wbName": "Jordan",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "JOD",
+   "ppp": {
+    "value": 0.318288385857298,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.71,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 0.709,
+    "note": "Pegged at 0.709 per USD"
+   }
+  },
+  {
+   "iso3": "JPN",
+   "iso2": "JP",
+   "name": "Japan",
+   "wbName": "Japan",
+   "region": "East Asia & Pacific",
+   "currency": "JPY",
+   "ppp": {
+    "value": 103.33658,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 149.657926890951,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "JPY",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "KAZ",
+   "iso2": "KZ",
+   "name": "Kazakhstan",
+   "wbName": "Kazakhstan",
+   "region": "Europe & Central Asia",
+   "currency": "KZT",
+   "ppp": {
+    "value": 190.877039756978,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 521.035,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "KEN",
+   "iso2": "KE",
+   "name": "Kenya",
+   "wbName": "Kenya",
+   "region": "Sub-Saharan Africa",
+   "currency": "KES",
+   "ppp": {
+    "value": 44.9843822337387,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 129.302572099377,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "KGZ",
+   "iso2": "KG",
+   "name": "Kyrgyzstan",
+   "wbName": "Kyrgyz Republic",
+   "region": "Europe & Central Asia",
+   "currency": "KGS",
+   "ppp": {
+    "value": 29.3215861329518,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 87.3598319399642,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "KHM",
+   "iso2": "KH",
+   "name": "Cambodia",
+   "wbName": "Cambodia",
+   "region": "East Asia & Pacific",
+   "currency": "KHR",
+   "ppp": {
+    "value": 1472.80130650375,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 4013.43310400665,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "KIR",
+   "iso2": "KI",
+   "name": "Kiribati",
+   "wbName": "Kiribati",
+   "region": "East Asia & Pacific",
+   "currency": "AUD",
+   "ppp": {
+    "value": 0.969124708696521,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1.5519978866485,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "AUD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "KNA",
+   "iso2": "KN",
+   "name": "Saint Kitts and Nevis",
+   "wbName": "St. Kitts and Nevis",
+   "region": "Latin America & Caribbean",
+   "currency": "XCD",
+   "ppp": {
+    "value": 1.85174655680503,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 2.7,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 2.7,
+    "note": "Pegged at 2.70 per USD"
+   }
+  },
+  {
+   "iso3": "KOR",
+   "iso2": "KR",
+   "name": "South Korea",
+   "wbName": "Korea, Rep.",
+   "region": "East Asia & Pacific",
+   "currency": "KRW",
+   "ppp": {
+    "value": 880.125358,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1422.44083333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "KRW",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "KWT",
+   "iso2": "KW",
+   "name": "Kuwait",
+   "wbName": "Kuwait",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "KWD",
+   "ppp": {
+    "value": 0.183187259430518,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.306454776364577,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "LAO",
+   "iso2": "LA",
+   "name": "Laos",
+   "wbName": "Lao PDR",
+   "region": "East Asia & Pacific",
+   "currency": "LAK",
+   "ppp": {
+    "value": 5870.11046725051,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 20444.1366516587,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "LBN",
+   "iso2": "LB",
+   "name": "Lebanon",
+   "wbName": "Lebanon",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "LBP",
+   "ppp": {
+    "value": 58470.1387395484,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 89500,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "LBR",
+   "iso2": "LR",
+   "name": "Liberia",
+   "wbName": "Liberia",
+   "region": "Sub-Saharan Africa",
+   "currency": "USD",
+   "ppp": {
+    "value": 0.533478423712667,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 191.306666666666,
+    "year": "2024"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": "World Bank PPP for Liberia is stated in USD"
+   }
+  },
+  {
+   "iso3": "LBY",
+   "iso2": "LY",
+   "name": "Libya",
+   "wbName": "Libya",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "LYD",
+   "ppp": {
+    "value": 1.7924854497322,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 5.30256666666666,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "LCA",
+   "iso2": "LC",
+   "name": "Saint Lucia",
+   "wbName": "St. Lucia",
+   "region": "Latin America & Caribbean",
+   "currency": "XCD",
+   "ppp": {
+    "value": 1.59470755573368,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2.7,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 2.7,
+    "note": "Pegged at 2.70 per USD"
+   }
+  },
+  {
+   "iso3": "LIE",
+   "iso2": "LI",
+   "name": "Liechtenstein",
+   "wbName": "Liechtenstein",
+   "region": "Europe & Central Asia",
+   "currency": "CHF",
+   "ppp": null,
+   "wbFx": {
+    "value": 0.831355833333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "CHF",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "LKA",
+   "iso2": "LK",
+   "name": "Sri Lanka",
+   "wbName": "Sri Lanka",
+   "region": "South Asia",
+   "currency": "LKR",
+   "ppp": {
+    "value": 81.1323218295842,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 300.851958333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "LSO",
+   "iso2": "LS",
+   "name": "Lesotho",
+   "wbName": "Lesotho",
+   "region": "Sub-Saharan Africa",
+   "currency": "LSL",
+   "ppp": {
+    "value": 6.23295294045791,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 17.8887489855833,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "ZAR",
+    "factor": 1,
+    "note": "At par with the rand"
+   }
+  },
+  {
+   "iso3": "LTU",
+   "iso2": "LT",
+   "name": "Lithuania",
+   "wbName": "Lithuania",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.549622,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "LUX",
+   "iso2": "LU",
+   "name": "Luxembourg",
+   "wbName": "Luxembourg",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.873002,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "LVA",
+   "iso2": "LV",
+   "name": "Latvia",
+   "wbName": "Latvia",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.552125,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "MAC",
+   "iso2": "MO",
+   "name": "Macao",
+   "wbName": "Macao SAR, China",
+   "region": "East Asia & Pacific",
+   "currency": "MOP",
+   "ppp": {
+    "value": 4.94685847656743,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 8.02981025,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "HKD",
+    "factor": 1.03,
+    "note": "Pegged at 1.03 per HKD"
+   }
+  },
+  {
+   "iso3": "MAF",
+   "iso2": "MF",
+   "name": "Saint Martin",
+   "wbName": "St. Martin (French part)",
+   "region": "Latin America & Caribbean",
+   "currency": "EUR",
+   "ppp": null,
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "MAR",
+   "iso2": "MA",
+   "name": "Morocco",
+   "wbName": "Morocco",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "MAD",
+   "ppp": {
+    "value": 3.95964860930538,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 9.35027697089946,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "MCO",
+   "iso2": "MC",
+   "name": "Monaco",
+   "wbName": "Monaco",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": null,
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "MDA",
+   "iso2": "MD",
+   "name": "Moldova",
+   "wbName": "Moldova",
+   "region": "Europe & Central Asia",
+   "currency": "MDL",
+   "ppp": {
+    "value": 8.77294960538378,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 17.3778474404761,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "MDG",
+   "iso2": "MG",
+   "name": "Madagascar",
+   "wbName": "Madagascar",
+   "region": "Sub-Saharan Africa",
+   "currency": "MGA",
+   "ppp": {
+    "value": 1315.38474116167,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 4529.75125196404,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "MDV",
+   "iso2": "MV",
+   "name": "Maldives",
+   "wbName": "Maldives",
+   "region": "South Asia",
+   "currency": "MVR",
+   "ppp": {
+    "value": 9.57426755093755,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 15.415677547363,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "MEX",
+   "iso2": "MX",
+   "name": "Mexico",
+   "wbName": "Mexico",
+   "region": "Latin America & Caribbean",
+   "currency": "MXN",
+   "ppp": {
+    "value": 11.308778,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 19.2375083333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "MXN",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "MHL",
+   "iso2": "MH",
+   "name": "Marshall Islands",
+   "wbName": "Marshall Islands",
+   "region": "East Asia & Pacific",
+   "currency": "USD",
+   "ppp": {
+    "value": 0.946982695755452,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "MKD",
+   "iso2": "MK",
+   "name": "North Macedonia",
+   "wbName": "North Macedonia",
+   "region": "Europe & Central Asia",
+   "currency": "MKD",
+   "ppp": {
+    "value": 22.3925017926221,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 54.6549666666666,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "MLI",
+   "iso2": "ML",
+   "name": "Mali",
+   "wbName": "Mali",
+   "region": "Sub-Saharan Africa",
+   "currency": "XOF",
+   "ppp": {
+    "value": 193.448767309696,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "MLT",
+   "iso2": "MT",
+   "name": "Malta",
+   "wbName": "Malta",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.610362616091725,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "MMR",
+   "iso2": "MM",
+   "name": "Myanmar",
+   "wbName": "Myanmar",
+   "region": "East Asia & Pacific",
+   "currency": "MMK",
+   "ppp": {
+    "value": 520.106449561224,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1381.61916666666,
+    "year": "2020"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "MNE",
+   "iso2": "ME",
+   "name": "Montenegro",
+   "wbName": "Montenegro",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.43894822001994,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.887144250370587,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "MNG",
+   "iso2": "MN",
+   "name": "Mongolia",
+   "wbName": "Mongolia",
+   "region": "East Asia & Pacific",
+   "currency": "MNT",
+   "ppp": {
+    "value": 1180.7249400766,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 3545.14356555046,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "MNP",
+   "iso2": "MP",
+   "name": "Northern Mariana Islands",
+   "wbName": "Northern Mariana Islands",
+   "region": "East Asia & Pacific",
+   "currency": "USD",
+   "ppp": {
+    "value": 0.937482775701845,
+    "year": "2021",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2021"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "MOZ",
+   "iso2": "MZ",
+   "name": "Mozambique",
+   "wbName": "Mozambique",
+   "region": "Sub-Saharan Africa",
+   "currency": "MZN",
+   "ppp": {
+    "value": 25.49891404431,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 63.905,
+    "year": "2024"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "MRT",
+   "iso2": "MR",
+   "name": "Mauritania",
+   "wbName": "Mauritania",
+   "region": "Sub-Saharan Africa",
+   "currency": "MRU",
+   "ppp": {
+    "value": 12.1923421371596,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 36.4891666666666,
+    "year": "2023"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "MUS",
+   "iso2": "MU",
+   "name": "Mauritius",
+   "wbName": "Mauritius",
+   "region": "Sub-Saharan Africa",
+   "currency": "MUR",
+   "ppp": {
+    "value": 20.1054902867367,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 45.9969666666666,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "MWI",
+   "iso2": "MW",
+   "name": "Malawi",
+   "wbName": "Malawi",
+   "region": "Sub-Saharan Africa",
+   "currency": "MWK",
+   "ppp": {
+    "value": 627.167408780094,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1161.09436666666,
+    "year": "2023"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "MYS",
+   "iso2": "MY",
+   "name": "Malaysia",
+   "wbName": "Malaysia",
+   "region": "East Asia & Pacific",
+   "currency": "MYR",
+   "ppp": {
+    "value": 1.43063372521877,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 4.28442415048243,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "MYR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "NAM",
+   "iso2": "NA",
+   "name": "Namibia",
+   "wbName": "Namibia",
+   "region": "Sub-Saharan Africa",
+   "currency": "NAD",
+   "ppp": {
+    "value": 7.37916795801793,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 17.8887333333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "ZAR",
+    "factor": 1,
+    "note": "At par with the rand"
+   }
+  },
+  {
+   "iso3": "NCL",
+   "iso2": "NC",
+   "name": "New Caledonia",
+   "wbName": "New Caledonia",
+   "region": "East Asia & Pacific",
+   "currency": "XPF",
+   "ppp": {
+    "value": 116.089539203239,
+    "year": "2021",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 100.880222566186,
+    "year": "2021"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 119.33174,
+    "note": "CFP franc fixed at 119.33 per EUR"
+   }
+  },
+  {
+   "iso3": "NER",
+   "iso2": "NE",
+   "name": "Niger",
+   "wbName": "Niger",
+   "region": "Sub-Saharan Africa",
+   "currency": "XOF",
+   "ppp": {
+    "value": 199.580023538792,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "NGA",
+   "iso2": "NG",
+   "name": "Nigeria",
+   "wbName": "Nigeria",
+   "region": "Sub-Saharan Africa",
+   "currency": "NGN",
+   "ppp": {
+    "value": 318.059578030611,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1518.38094813367,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "NIC",
+   "iso2": "NI",
+   "name": "Nicaragua",
+   "wbName": "Nicaragua",
+   "region": "Latin America & Caribbean",
+   "currency": "NIO",
+   "ppp": {
+    "value": 13.5337691271875,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 36.6243,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "NLD",
+   "iso2": "NL",
+   "name": "Netherlands",
+   "wbName": "Netherlands",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.767344,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "NOR",
+   "iso2": "NO",
+   "name": "Norway",
+   "wbName": "Norway",
+   "region": "Europe & Central Asia",
+   "currency": "NOK",
+   "ppp": {
+    "value": 10.001321,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 10.3958333333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "NOK",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "NPL",
+   "iso2": "NP",
+   "name": "Nepal",
+   "wbName": "Nepal",
+   "region": "South Asia",
+   "currency": "NPR",
+   "ppp": {
+    "value": 35.2703228981617,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 139.115437592695,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "INR",
+    "factor": 1.6,
+    "note": "Pegged at 1.6 per INR"
+   }
+  },
+  {
+   "iso3": "NRU",
+   "iso2": "NR",
+   "name": "Nauru",
+   "wbName": "Naoero",
+   "region": "East Asia & Pacific",
+   "currency": "AUD",
+   "ppp": {
+    "value": 1.59287093272538,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1.5519978866485,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "AUD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "NZL",
+   "iso2": "NZ",
+   "name": "New Zealand",
+   "wbName": "New Zealand",
+   "region": "East Asia & Pacific",
+   "currency": "NZD",
+   "ppp": {
+    "value": 1.529087,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1.72010833333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "NZD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "OMN",
+   "iso2": "OM",
+   "name": "Oman",
+   "wbName": "Oman",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "OMR",
+   "ppp": {
+    "value": 0.18186478314875,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.3845,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 0.3845,
+    "note": "Pegged at 0.3845 per USD"
+   }
+  },
+  {
+   "iso3": "PAK",
+   "iso2": "PK",
+   "name": "Pakistan",
+   "wbName": "Pakistan",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "PKR",
+   "ppp": {
+    "value": 65.3961460407031,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 281.143001173202,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "PAN",
+   "iso2": "PA",
+   "name": "Panama",
+   "wbName": "Panama",
+   "region": "Latin America & Caribbean",
+   "currency": "PAB",
+   "ppp": {
+    "value": 0.496705983132614,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": "Balboa is at par with the US dollar"
+   }
+  },
+  {
+   "iso3": "PER",
+   "iso2": "PE",
+   "name": "Peru",
+   "wbName": "Peru",
+   "region": "Latin America & Caribbean",
+   "currency": "PEN",
+   "ppp": {
+    "value": 1.92703167944646,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 3.56706380329909,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "PHL",
+   "iso2": "PH",
+   "name": "Philippines",
+   "wbName": "Philippines",
+   "region": "East Asia & Pacific",
+   "currency": "PHP",
+   "ppp": {
+    "value": 20.5335464484259,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 57.5050971489714,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "PHP",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "PLW",
+   "iso2": "PW",
+   "name": "Palau",
+   "wbName": "Palau",
+   "region": "East Asia & Pacific",
+   "currency": "USD",
+   "ppp": {
+    "value": 0.963317720533897,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "PNG",
+   "iso2": "PG",
+   "name": "Papua New Guinea",
+   "wbName": "Papua New Guinea",
+   "region": "East Asia & Pacific",
+   "currency": "PGK",
+   "ppp": {
+    "value": 2.76190379488816,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 4.12272372720281,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "POL",
+   "iso2": "PL",
+   "name": "Poland",
+   "wbName": "Poland",
+   "region": "Europe & Central Asia",
+   "currency": "PLN",
+   "ppp": {
+    "value": 2.063158,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 3.76054166666666,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "PLN",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "PRI",
+   "iso2": "PR",
+   "name": "Puerto Rico",
+   "wbName": "Puerto Rico (US)",
+   "region": "Latin America & Caribbean",
+   "currency": "USD",
+   "ppp": {
+    "value": 0.778230137047568,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "PRK",
+   "iso2": "KP",
+   "name": "North Korea",
+   "wbName": "Korea, Dem. People's Rep.",
+   "region": "East Asia & Pacific",
+   "currency": "KPW",
+   "ppp": null,
+   "wbFx": null,
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "PRT",
+   "iso2": "PT",
+   "name": "Portugal",
+   "wbName": "Portugal",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.574713,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "PRY",
+   "iso2": "PY",
+   "name": "Paraguay",
+   "wbName": "Paraguay",
+   "region": "Latin America & Caribbean",
+   "currency": "PYG",
+   "ppp": {
+    "value": 2874.55964196731,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 7545.4467553741,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "PSE",
+   "iso2": "PS",
+   "name": "Palestine",
+   "wbName": "West Bank and Gaza",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "ILS",
+   "ppp": {
+    "value": 0.906517515862506,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": null,
+   "fx": {
+    "kind": "ecb",
+    "anchor": "ILS",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "PYF",
+   "iso2": "PF",
+   "name": "French Polynesia",
+   "wbName": "French Polynesia",
+   "region": "East Asia & Pacific",
+   "currency": "XPF",
+   "ppp": {
+    "value": 101.865636234078,
+    "year": "2021",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 100.880222566186,
+    "year": "2021"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 119.33174,
+    "note": "CFP franc fixed at 119.33 per EUR"
+   }
+  },
+  {
+   "iso3": "QAT",
+   "iso2": "QA",
+   "name": "Qatar",
+   "wbName": "Qatar",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "QAR",
+   "ppp": {
+    "value": 2.0482980288714,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 3.64,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 3.64,
+    "note": "Pegged at 3.64 per USD"
+   }
+  },
+  {
+   "iso3": "ROU",
+   "iso2": "RO",
+   "name": "Romania",
+   "wbName": "Romania",
+   "region": "Europe & Central Asia",
+   "currency": "RON",
+   "ppp": {
+    "value": 2.18053324965105,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 4.47053333333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "RON",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "RUS",
+   "iso2": "RU",
+   "name": "Russia",
+   "wbName": "Russian Federation",
+   "region": "Europe & Central Asia",
+   "currency": "RUB",
+   "ppp": {
+    "value": 30.7531677427565,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 83.6525,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "RWA",
+   "iso2": "RW",
+   "name": "Rwanda",
+   "wbName": "Rwanda",
+   "region": "Sub-Saharan Africa",
+   "currency": "RWF",
+   "ppp": {
+    "value": 372.708064661891,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1428.47827558333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "SAU",
+   "iso2": "SA",
+   "name": "Saudi Arabia",
+   "wbName": "Saudi Arabia",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "SAR",
+   "ppp": {
+    "value": 1.87073473450826,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 3.75,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 3.75,
+    "note": "Pegged at 3.75 per USD"
+   }
+  },
+  {
+   "iso3": "SDN",
+   "iso2": "SD",
+   "name": "Sudan",
+   "wbName": "Sudan",
+   "region": "Sub-Saharan Africa",
+   "currency": "SDG",
+   "ppp": {
+    "value": 1175.58773572252,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 546.75885,
+    "year": "2022"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "SEN",
+   "iso2": "SN",
+   "name": "Senegal",
+   "wbName": "Senegal",
+   "region": "Sub-Saharan Africa",
+   "currency": "XOF",
+   "ppp": {
+    "value": 226.51433937531,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "SGP",
+   "iso2": "SG",
+   "name": "Singapore",
+   "wbName": "Singapore",
+   "region": "East Asia & Pacific",
+   "currency": "SGD",
+   "ppp": {
+    "value": 1.02381459225381,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1.30745,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "SGD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "SLB",
+   "iso2": "SB",
+   "name": "Solomon Islands",
+   "wbName": "Solomon Islands",
+   "region": "East Asia & Pacific",
+   "currency": "SBD",
+   "ppp": {
+    "value": 7.64775147548682,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 8.32684233252032,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "SLE",
+   "iso2": "SL",
+   "name": "Sierra Leone",
+   "wbName": "Sierra Leone",
+   "region": "Sub-Saharan Africa",
+   "currency": "SLE",
+   "ppp": {
+    "value": 6.92562829658789,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 21.3048751103817,
+    "year": "2023"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "SLV",
+   "iso2": "SV",
+   "name": "El Salvador",
+   "wbName": "El Salvador",
+   "region": "Latin America & Caribbean",
+   "currency": "USD",
+   "ppp": {
+    "value": 0.468846458572408,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "SMR",
+   "iso2": "SM",
+   "name": "San Marino",
+   "wbName": "San Marino",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.735981567763683,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.887144250370587,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "SOM",
+   "iso2": "SO",
+   "name": "Somalia",
+   "wbName": "Somalia, Fed. Rep.",
+   "region": "Sub-Saharan Africa",
+   "currency": "SOS",
+   "ppp": {
+    "value": 12115.8880855469,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 23097.9873219373,
+    "year": "2017"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "SRB",
+   "iso2": "RS",
+   "name": "Serbia",
+   "wbName": "Serbia",
+   "region": "Europe & Central Asia",
+   "currency": "RSD",
+   "ppp": {
+    "value": 52.9296870508475,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 103.9754,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "SSD",
+   "iso2": "SS",
+   "name": "South Sudan",
+   "wbName": "South Sudan",
+   "region": "Sub-Saharan Africa",
+   "currency": "SSP",
+   "ppp": {
+    "value": 158.052139282227,
+    "year": "2021",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 306.354619937276,
+    "year": "2021"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "STP",
+   "iso2": "ST",
+   "name": "Sao Tome and Principe",
+   "wbName": "Sao Tome and Principe",
+   "region": "Sub-Saharan Africa",
+   "currency": "STN",
+   "ppp": {
+    "value": 14.6989139133246,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 21.7450517869566,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 24.5,
+    "note": "Pegged at 24.5 per EUR"
+   }
+  },
+  {
+   "iso3": "SUR",
+   "iso2": "SR",
+   "name": "Suriname",
+   "wbName": "Suriname",
+   "region": "Latin America & Caribbean",
+   "currency": "SRD",
+   "ppp": {
+    "value": 15.6295611371594,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 37.2601791666666,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "SVK",
+   "iso2": "SK",
+   "name": "Slovakia",
+   "wbName": "Slovak Republic",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.565748,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "SVN",
+   "iso2": "SI",
+   "name": "Slovenia",
+   "wbName": "Slovenia",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.592804,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 0.88496895841236,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "SWE",
+   "iso2": "SE",
+   "name": "Sweden",
+   "wbName": "Sweden",
+   "region": "Europe & Central Asia",
+   "currency": "SEK",
+   "ppp": {
+    "value": 8.889005,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 9.82070570950185,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "SEK",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "SWZ",
+   "iso2": "SZ",
+   "name": "Eswatini",
+   "wbName": "Eswatini",
+   "region": "Sub-Saharan Africa",
+   "currency": "SZL",
+   "ppp": {
+    "value": 5.86563643135325,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 17.8889209208377,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "ZAR",
+    "factor": 1,
+    "note": "At par with the rand"
+   }
+  },
+  {
+   "iso3": "SXM",
+   "iso2": "SX",
+   "name": "Sint Maarten (Dutch part)",
+   "wbName": "Sint Maarten (Dutch part)",
+   "region": "Latin America & Caribbean",
+   "currency": "ANG",
+   "ppp": {
+    "value": 1.36183701233079,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1.79,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1.79,
+    "note": "Pegged at 1.79 per USD"
+   }
+  },
+  {
+   "iso3": "SYC",
+   "iso2": "SC",
+   "name": "Seychelles",
+   "wbName": "Seychelles",
+   "region": "Sub-Saharan Africa",
+   "currency": "SCR",
+   "ppp": {
+    "value": 8.4502912981264,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 14.7254562696937,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "SYR",
+   "iso2": "SY",
+   "name": "Syria",
+   "wbName": "Syrian Arab Republic",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "SYP",
+   "ppp": {
+    "value": 807.95702765744,
+    "year": "2022",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 2505.74691085873,
+    "year": "2022"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "TCA",
+   "iso2": "TC",
+   "name": "Turks and Caicos Islands",
+   "wbName": "Turks and Caicos Islands",
+   "region": "Latin America & Caribbean",
+   "currency": "USD",
+   "ppp": {
+    "value": 0.986773622391009,
+    "year": "2024",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2024"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "TCD",
+   "iso2": "TD",
+   "name": "Chad",
+   "wbName": "Chad",
+   "region": "Sub-Saharan Africa",
+   "currency": "XAF",
+   "ppp": {
+    "value": 222.761021776199,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "TGO",
+   "iso2": "TG",
+   "name": "Togo",
+   "wbName": "Togo",
+   "region": "Sub-Saharan Africa",
+   "currency": "XOF",
+   "ppp": {
+    "value": 218.390674232123,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 581.928481040339,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 655.957,
+    "note": "CFA franc fixed at 655.957 per EUR"
+   }
+  },
+  {
+   "iso3": "THA",
+   "iso2": "TH",
+   "name": "Thailand",
+   "wbName": "Thailand",
+   "region": "East Asia & Pacific",
+   "currency": "THB",
+   "ppp": {
+    "value": 10.6062585640682,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 32.882809252867,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "THB",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "TJK",
+   "iso2": "TJ",
+   "name": "Tajikistan",
+   "wbName": "Tajikistan",
+   "region": "Europe & Central Asia",
+   "currency": "TJS",
+   "ppp": {
+    "value": 3.19819075121835,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 10.0177083333333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "TKM",
+   "iso2": "TM",
+   "name": "Turkmenistan",
+   "wbName": "Turkmenistan",
+   "region": "Europe & Central Asia",
+   "currency": "TMT",
+   "ppp": {
+    "value": 1.57315223779675,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": null,
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "TLS",
+   "iso2": "TL",
+   "name": "Timor-Leste",
+   "wbName": "Timor-Leste",
+   "region": "East Asia & Pacific",
+   "currency": "USD",
+   "ppp": {
+    "value": 0.445647699325509,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "TON",
+   "iso2": "TO",
+   "name": "Tonga",
+   "wbName": "Tonga",
+   "region": "East Asia & Pacific",
+   "currency": "TOP",
+   "ppp": {
+    "value": 1.87686427610127,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2.41052686435725,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "TTO",
+   "iso2": "TT",
+   "name": "Trinidad and Tobago",
+   "wbName": "Trinidad and Tobago",
+   "region": "Latin America & Caribbean",
+   "currency": "TTD",
+   "ppp": {
+    "value": 3.84086021913745,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 6.74884660621026,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "TUN",
+   "iso2": "TN",
+   "name": "Tunisia",
+   "wbName": "Tunisia",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "TND",
+   "ppp": {
+    "value": 0.980303631223316,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2.99736666666666,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "TUR",
+   "iso2": "TR",
+   "name": "Türkiye",
+   "wbName": "Turkiye",
+   "region": "Europe & Central Asia",
+   "currency": "TRY",
+   "ppp": {
+    "value": 17.744381,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 39.4548130977982,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "TRY",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "TUV",
+   "iso2": "TV",
+   "name": "Tuvalu",
+   "wbName": "Tuvalu",
+   "region": "East Asia & Pacific",
+   "currency": "AUD",
+   "ppp": {
+    "value": 1.38717699395366,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1.5519978866485,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "AUD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "TZA",
+   "iso2": "TZ",
+   "name": "Tanzania",
+   "wbName": "Tanzania",
+   "region": "Sub-Saharan Africa",
+   "currency": "TZS",
+   "ppp": {
+    "value": 661.495628388571,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2597.90041666666,
+    "year": "2024"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "UGA",
+   "iso2": "UG",
+   "name": "Uganda",
+   "wbName": "Uganda",
+   "region": "Sub-Saharan Africa",
+   "currency": "UGX",
+   "ppp": {
+    "value": 1337.11009292042,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 3602.98994206813,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "UKR",
+   "iso2": "UA",
+   "name": "Ukraine",
+   "wbName": "Ukraine",
+   "region": "Europe & Central Asia",
+   "currency": "UAH",
+   "ppp": {
+    "value": 11.8646230019295,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 41.6890720433333,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "URY",
+   "iso2": "UY",
+   "name": "Uruguay",
+   "wbName": "Uruguay",
+   "region": "Latin America & Caribbean",
+   "currency": "UYU",
+   "ppp": {
+    "value": 29.8551247863115,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 41.1909791666666,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "USA",
+   "iso2": "US",
+   "name": "United States",
+   "wbName": "United States",
+   "region": "North America",
+   "currency": "USD",
+   "ppp": {
+    "value": 1,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "UZB",
+   "iso2": "UZ",
+   "name": "Uzbekistan",
+   "wbName": "Uzbekistan",
+   "region": "Europe & Central Asia",
+   "currency": "UZS",
+   "ppp": {
+    "value": 3573.27374115116,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 12579.3943476702,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "VCT",
+   "iso2": "VC",
+   "name": "Saint Vincent and the Grenadines",
+   "wbName": "St. Vincent and the Grenadines",
+   "region": "Latin America & Caribbean",
+   "currency": "XCD",
+   "ppp": {
+    "value": 1.67810944021708,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2.7,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 2.7,
+    "note": "Pegged at 2.70 per USD"
+   }
+  },
+  {
+   "iso3": "VEN",
+   "iso2": "VE",
+   "name": "Venezuela",
+   "wbName": "Venezuela, RB",
+   "region": "Latin America & Caribbean",
+   "currency": "VES",
+   "ppp": {
+    "value": 2.94362664222717e-11,
+    "year": "2011",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 4.2893,
+    "year": "2011"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "VGB",
+   "iso2": "VG",
+   "name": "British Virgin Islands",
+   "wbName": "British Virgin Islands",
+   "region": "Latin America & Caribbean",
+   "currency": "USD",
+   "ppp": {
+    "value": 1.02093863487244,
+    "year": "2021",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": null,
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "VIR",
+   "iso2": "VI",
+   "name": "US Virgin Islands",
+   "wbName": "Virgin Islands (U.S.)",
+   "region": "Latin America & Caribbean",
+   "currency": "USD",
+   "ppp": {
+    "value": 0.890243717259396,
+    "year": "2022",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 1,
+    "year": "2022"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "USD",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "VNM",
+   "iso2": "VN",
+   "name": "Vietnam",
+   "wbName": "Viet Nam",
+   "region": "East Asia & Pacific",
+   "currency": "VND",
+   "ppp": {
+    "value": 7203.369608085,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 24164.8858333333,
+    "year": "2024"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "VUT",
+   "iso2": "VU",
+   "name": "Vanuatu",
+   "wbName": "Vanuatu",
+   "region": "East Asia & Pacific",
+   "currency": "VUV",
+   "ppp": {
+    "value": 122.238166921348,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 120.324285714285,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "WSM",
+   "iso2": "WS",
+   "name": "Samoa",
+   "wbName": "Samoa",
+   "region": "East Asia & Pacific",
+   "currency": "WST",
+   "ppp": {
+    "value": 1.88169860703258,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 2.79150381915391,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "XKX",
+   "iso2": "XK",
+   "name": "Kosovo",
+   "wbName": "Kosovo",
+   "region": "Europe & Central Asia",
+   "currency": "EUR",
+   "ppp": {
+    "value": 0.362904088534196,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 0.887144250370587,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "EUR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "YEM",
+   "iso2": "YE",
+   "name": "Yemen",
+   "wbName": "Yemen, Rep.",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "currency": "YER",
+   "ppp": {
+    "value": 90.3601684570313,
+    "year": "2013",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 214.89,
+    "year": "2013"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "ZAF",
+   "iso2": "ZA",
+   "name": "South Africa",
+   "wbName": "South Africa",
+   "region": "Sub-Saharan Africa",
+   "currency": "ZAR",
+   "ppp": {
+    "value": 7.73995922531754,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 17.8887489855833,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "ecb",
+    "anchor": "ZAR",
+    "factor": 1,
+    "note": null
+   }
+  },
+  {
+   "iso3": "ZMB",
+   "iso2": "ZM",
+   "name": "Zambia",
+   "wbName": "Zambia",
+   "region": "Sub-Saharan Africa",
+   "currency": "ZMW",
+   "ppp": {
+    "value": 8.39252772382653,
+    "year": "2025",
+    "indicator": "PA.NUS.PRVT.PP"
+   },
+   "wbFx": {
+    "value": 25.2756892021939,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  },
+  {
+   "iso3": "ZWE",
+   "iso2": "ZW",
+   "name": "Zimbabwe",
+   "wbName": "Zimbabwe",
+   "region": "Sub-Saharan Africa",
+   "currency": "ZWG",
+   "ppp": {
+    "value": 14.8477864567247,
+    "year": "2025",
+    "indicator": "PA.NUS.PPP"
+   },
+   "wbFx": {
+    "value": 26.5961940841935,
+    "year": "2025"
+   },
+   "fx": {
+    "kind": "wb"
+   }
+  }
+ ]
+}

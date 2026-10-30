@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Further — where your money goes furthest</title>
+  <meta name="description" content="Countries ranked by how far your money goes right now: World Bank price levels combined with today's ECB exchange rates.">
+  <meta name="theme-color" content="#0f766e">
+  <link rel="stylesheet" href="src/styles.css">
+  <script type="module" src="src/app.js"></script>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <p class="brand">Further</p>
+      <h1>Where does your money go furthest <em>right now</em>?</h1>
+      <div class="home-row">
+        <label for="home">I live in</label>
+        <select id="home" aria-describedby="home-hint"><option>Loading…</option></select>
+      </div>
+      <p id="home-hint" class="hint"></p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="sources" id="sources" aria-label="Data sources"></section>
+
+    <div class="controls" role="search">
+      <input id="q" type="search" placeholder="Search countries" aria-label="Search countries" autocomplete="off">
+      <select id="region" aria-label="Region"><option value="">All regions</option></select>
+      <select id="sort" aria-label="Sort">
+        <option value="cheap">Cheapest first</option>
+        <option value="dear">Most expensive first</option>
+        <option value="name">A–Z</option>
+      </select>
+      <label class="check"><input id="liveOnly" type="checkbox"> Today's rates only</label>
+    </div>
+
+    <p class="count" id="count" aria-live="polite"></p>
+    <ol class="grid" id="list"></ol>
+
+    <section class="excluded" id="excluded"></section>
+
+    <section class="method" id="method">
+      <h2>How this works</h2>
+      <p><strong>Price level</strong> for each country = World Bank PPP conversion factor (local currency per international dollar) ÷ market exchange rate (local currency per US dollar). That gives prices relative to the US; dividing by your home country's level gives prices relative to home.</p>
+      <p><strong>“2.5× as far”</strong> and <strong>“100 from home is worth 250 there”</strong> mean the same thing: after exchanging 100 at today's rate, you can buy household goods and services there that would cost 250 at home.</p>
+      <p><strong>Which PPP:</strong> household final consumption PPP (<code>PA.NUS.PRVT.PP</code>), the closest match to what travellers buy. If a country's GDP PPP (<code>PA.NUS.PPP</code>) is more recent, that is used instead and the card says so.</p>
+      <p><strong>Which exchange rate:</strong> today's ECB reference rate via Frankfurter where the ECB quotes the currency, or where it is fixed to one the ECB quotes (e.g. CFA franc, Gulf pegs). Everything else uses the World Bank's annual average for the PPP year and is labelled <span class="tag tag-annual">Annual rate</span>.</p>
+      <p><strong>Caveats:</strong> PPP figures describe the PPP year. If a currency fell since then, local prices have usually risen too, which PPP does not yet show — such countries look cheaper than they are. Cards flag a currency move of 10% or more. Prices are national averages: capitals and tourist areas cost more.</p>
+      <p><strong>Accuracy:</strong> every PPP factor shown is the World Bank value, rounded only for display (tolerance ±0.01%, checked by <code>scripts/verify.mjs</code> against the live API). Price levels are recomputed independently from the raw API values and must agree within ±0.1%.</p>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <p>Data: <a href="https://data.worldbank.org/indicator/PA.NUS.PRVT.PP">World Bank, ICP / WDI</a> (CC BY 4.0) · <a href="https://frankfurter.dev">Frankfurter</a> (ECB reference rates). Not financial advice.</p>
+  </footer>
+</body>
+</html>
