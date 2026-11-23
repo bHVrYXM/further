@@ -2,17 +2,17 @@
  "sources": {
   "PA.NUS.PRVT.PP": {
    "name": "PPP conversion factor, households and NPISHs Final consumption expenditure (LCU per international $)",
-   "lastUpdated": "2026-10-08",
+   "lastUpdated": "2026-11-11",
    "url": "https://data.worldbank.org/indicator/PA.NUS.PRVT.PP"
   },
   "PA.NUS.PPP": {
    "name": "PPP conversion factor, GDP (LCU per international $)",
-   "lastUpdated": "2026-10-08",
+   "lastUpdated": "2026-11-11",
    "url": "https://data.worldbank.org/indicator/PA.NUS.PPP"
   },
   "PA.NUS.FCRF": {
    "name": "Official exchange rate (LCU per US$, period average)",
-   "lastUpdated": "2026-10-08",
+   "lastUpdated": "2026-11-11",
    "url": "https://data.worldbank.org/indicator/PA.NUS.FCRF"
   }
  },
